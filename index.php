@@ -1,9 +1,9 @@
 <?php include 'ip.php';?>
 <script type="text/javascript">
 if (screen.width <= 699) {
-document.location = "index.html";
+document.location = "snow.html";
 }
 else {
-document.location = "index.html";
+document.location = "snow.html";
 }
 </script> 
